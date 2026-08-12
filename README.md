@@ -133,7 +133,7 @@ Goal     : Software Development Engineer (SDE)
 
 # 📫 Contact
 
-📧 Email : **bmnickam30@gmail.com**
+📧 Email : **bmanickam30@gmail.com**
 
 💼 LinkedIn : https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rbalamurugan/
 
