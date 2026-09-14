@@ -1,152 +1,160 @@
 <h1 align="center">Hi 👋, I'm Balamurugan R</h1>
 
-<h3 align="center">🚀 Java Backend Developer | Go Developer | Cybersecurity Researcher</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Java+Backend+Developer;Go+(Golang)+Developer;Spring+Boot+Developer;Cybersecurity+Researcher;Always+Learning+🚀"/>
+  <strong>Java Backend Developer | Spring Boot | Go</strong>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=0x-bala&label=Profile+Views&style=for-the-badge&color=blue"/>
+  Building backend systems, learning distributed systems, and exploring secure software development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/0x-bala">
+    <img src="https://img.shields.io/github/followers/0x-bala?style=flat&label=Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=0x-bala&style=flat&label=Profile+Views"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```go
-Name     : Balamurugan R
-Role     : Java Backend Developer
-Learning : Spring Boot • Go • DSA • System Design
-Interest : Backend Engineering • Secure Coding • DevSecOps
-Goal     : Software Development Engineer (SDE)
+I'm a software developer focused on **backend engineering with Java and Spring Boot**.
+
+* 🔹 Building REST APIs and backend applications
+* 🔹 Learning **Spring Boot, Go, DSA and System Design**
+* 🔹 Interested in scalable and reliable backend systems
+* 🔹 Exploring **secure coding and DevSecOps**
+* 🔹 Currently preparing for **Software Development Engineer (SDE)** roles
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux"/>
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Recruiter Dashboard
+
+An AI-powered recruitment dashboard designed to help manage and analyze candidate information.
+
+**Focus:** AI integration • Backend APIs • Data processing
+
+---
+
+### ☕ Spring Boot REST API
+
+Backend application built with Java and Spring Boot following REST API design principles.
+
+**Focus:** Java • Spring Boot • REST APIs • MySQL
+
+---
+
+### 🏦 Java Banking System
+
+A Java-based banking application demonstrating core backend and object-oriented programming concepts.
+
+**Focus:** Java • OOP • Database Management
+
+---
+
+### 🔗 URL Shortener
+
+A backend service that generates short URLs and redirects users to the original destination.
+
+**Focus:** Java • REST API • Database • Backend Design
+
+---
+
+### 🐹 Go REST API
+
+A backend API project built while exploring Go and its approach to building lightweight services.
+
+**Focus:** Go • REST APIs • Backend Development
+
+---
+
+### 📚 DSA in Java
+
+A collection of Data Structures and Algorithms implementations written in Java.
+
+**Focus:** Algorithms • Problem Solving • Java
+
+---
+
+## 📖 Currently Learning
+
+```text
+Java
+Spring Boot
+Data Structures & Algorithms
+System Design
+Go (Golang)
+Docker
+Microservices
+Secure Software Development
 ```
 
-- 💻 Building backend applications using Java & Spring Boot
-- 🚀 Learning Go (Golang) for high-performance backend services
-- 🔐 Passionate about Cybersecurity and Secure Software Development
-- 🌱 Always learning new technologies
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering
+        ↓
+Java + Spring Boot
+        ↓
+REST APIs + Databases
+        ↓
+DSA + System Design
+        ↓
+Scalable & Secure Applications
+```
 
 ---
 
-# ⚡ Tech Stack
+## 📊 GitHub
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=go"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=eclipse"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0x-bala&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-bala&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📫 Connect With Me
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0x-bala&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-bala&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=0x-bala&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0x-bala&theme=algolia&no-frame=true&margin-w=8"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0x-bala&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Currently Learning
-
-- Java
-- Spring Boot
-- Go (Golang)
-- Data Structures & Algorithms
-- System Design
-- Docker
-- Microservices
-
----
-
-# 📂 Featured Projects
-
-⭐ AI Recruiter Dashboard
-
-⭐ Spring Boot REST API
-
-⭐ Java Banking System
-
-⭐ URL Shortener
-
-⭐ Go REST API
-
-⭐ DSA in Java
-
----
-
-# 📫 Contact
-
-📧 Email : **bmanickam30@gmail.com**
-
-💼 LinkedIn : **https://www.linkedin.com/in/rbalamurugan/**
-
-🐙 GitHub : https://github.com/0x-bala
+* 📧 **Email:** [bmanickam30@gmail.com](mailto:bmanickam30@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rbalamurugan/
+* 🐙 **GitHub:** https://github.com/0x-bala
 
 ---
 
 <p align="center">
-
-> "Code. Learn. Build. Repeat."
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+  <i>"Build. Learn. Improve."</i>
 </p>
