@@ -1,238 +1,255 @@
- <!-- ═══════════════════ HEADER ═══════════════════ -->
-
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=210&section=header&text=Balamurugan%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Balamurugan R — Python AI Engineer"/>
-
-<a href="https://github.com/0x-bala">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=55&lines=Building+Practical+AI+Applications;Exploring+LLMs+%26+RAG+Systems;Python+%7C+FastAPI+%7C+Backend+Engineering;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
-</a>
-
-<p>
-  <a href="https://github.com/0x-bala">
-    <img src="https://img.shields.io/badge/GitHub-0x--bala-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rbalamurugan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:balamurugan.r.prvt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=0x-bala&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Balamurugan R**, a developer focused on **Python AI engineering, Generative AI, and backend development**.
-
-I enjoy exploring how machine learning models, large language models, retrieval systems, and APIs can work together to solve practical problems.
-
-- 🤖 Exploring LLMs, embeddings, semantic search, and RAG architectures.
-- 🐍 Building Python applications and REST APIs with FastAPI.
-- 🧠 Learning machine learning, deep learning, NLP, and model evaluation.
-- 🗄️ Exploring PostgreSQL, vector search, and AI data pipelines.
-- 🔐 Interested in secure, reliable, and maintainable software systems.
-- 🎯 Working toward AI Engineer, Applied AI Engineer, and Python Backend Developer roles.
-
-> My goal is to turn AI concepts into useful, testable, and deployable software.
-
-## 🛠️ Technology Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,bash&theme=dark" alt="Python, Go, and Bash"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Research-102230?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-Learning-102230?style=flat-square" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/LLMs-Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-Information_Retrieval-0E7490?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-0E7490?style=flat-square" alt="Embeddings"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and scikit-learn"/>
-</p>
-
-**Areas of interest:** NLP · Transformers · LLM applications · Vector search · AI agents · Model evaluation
-
-### Python Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI and Flask"/>
-  <img src="https://img.shields.io/badge/Pydantic-Data_Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/REST_APIs-Backend_Engineering-2563EB?style=flat-square" alt="REST APIs"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="PostgreSQL, MySQL, Redis, and MongoDB"/>
-  <img src="https://img.shields.io/badge/pgvector-Vector_Search-336791?style=flat-square" alt="pgvector"/>
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&theme=dark" alt="Git, GitHub, Docker, Linux, and AWS"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Explore my repositories and the software I'm building.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Recruiter Dashboard</h3>
-      <p>A repository focused on an AI-related recruiting dashboard.</p>
-      <a href="https://github.com/0x-bala/ai-recruiter-dashboard">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View AI Recruiter Dashboard"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗳️ TrustVote</h3>
-      <p>A blockchain-based voting project focused on transparency and election integrity.</p>
-      <a href="https://github.com/0x-bala/TrustVote">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View TrustVote"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 JS Finder</h3>
-      <p>A JavaScript vulnerability and sensitive-information scanning tool.</p>
-      <a href="https://github.com/0x-bala/js-finder">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View JS Finder"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 AI Engineering Projects</h3>
-      <p>My ongoing learning focus includes RAG applications, LLM integrations, machine learning workflows, and Python API development.</p>
-      <a href="https://github.com/0x-bala?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧭 My AI Engineering Roadmap
-
-```text
-Python & Software Engineering
-            │
-            ▼
-     NumPy · Pandas
-            │
-            ▼
-   Machine Learning
-            │
-            ▼
- PyTorch · Deep Learning
-            │
-            ▼
-     NLP · Transformers
-            │
-            ▼
-        LLMs · APIs
-            │
-            ▼
-   Embeddings · Vector Search
-            │
-            ▼
-        RAG Systems
-            │
-            ▼
-   AI Agents · Tool Calling
-            │
-            ▼
- FastAPI · PostgreSQL · Docker
-            │
-            ▼
-   Deployment · Evaluation
-            │
-            ▼
-    Production AI Systems
-```
-
-## 📚 Currently Learning
-
-- **AI/ML:** machine learning fundamentals, deep learning, NLP, and transformers.
-- **Generative AI:** LLM integration, prompt engineering, embeddings, and RAG.
-- **Backend:** FastAPI, REST API design, Pydantic, and database integration.
-- **Data systems:** PostgreSQL, pgvector, vector databases, and semantic search.
-- **Deployment:** Docker, Linux, cloud fundamentals, and MLOps/LLMOps.
-- **Engineering fundamentals:** testing, Git, debugging, system design, and DSA.
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/0x-bala">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0x-bala&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/0x-bala">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-bala&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most-used public repository languages"/>
-</a>
+<!-- TERMINAL / CYBER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:0F766E,100:06B6D4&text=BALAMURUGAN%20R&fontColor=E2FDFC&fontSize=44&fontAlignY=45&animation=fadeIn&desc=PYTHON%20AI%20ENGINEER%20%2F%2F%20BACKEND%20DEVELOPER&descAlignY=68&descSize=14" width="100%" alt="Balamurugan R — Python AI Engineer"/>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=0x-bala&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=%3E+Building+practical+AI+applications;%3E+Exploring+LLMs+%2F%2F+RAG+systems;%3E+Python+%2F%2F+FastAPI+%2F%2F+REST+APIs;%3E+Security-minded+software+engineering" alt="Animated developer terminal introduction"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0x--bala-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/0x-bala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rbalamurugan/)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:balamurugan.r.prvt@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=0x-bala&style=flat-square&color=0891B2&label=PROFILE+VISITS" alt="Profile visit counter"/>
 
 </div>
 
-<sub>Statistics are generated by external services and may be unavailable temporarily. Language cards reflect repository composition, not necessarily proficiency.</sub>
+---
+
+## `01 // WHOAMI`
+
+```python
+class BalamuruganR:
+    role = "AI Engineer | Python Backend Developer"
+    focus = [
+        "Python & REST APIs",
+        "Machine Learning",
+        "Generative AI & LLMs",
+        "Retrieval-Augmented Generation",
+        "Application Security",
+    ]
+    interests = [
+        "Semantic Search",
+        "AI Application Engineering",
+        "Secure Software Systems",
+    ]
+
+    def mission(self):
+        return "Build useful, reliable, and testable software."
+```
+
+I'm a Computer Science and Engineering graduate with internship experience in application security and hands-on experience building Python applications, REST APIs, and AI-powered tools.
+
+My interests lie at the intersection of **AI engineering, Generative AI, Python backend development, and secure software engineering**.
+
+- `AI/ML` — machine learning workflows, NLP, and model evaluation.
+- `GenAI` — LLM applications, embeddings, and RAG architectures.
+- `Backend` — Python, FastAPI, REST APIs, and database integration.
+- `Security` — SAST, secure code review, and API security testing.
+- `Engineering` — Git, Linux, Docker, debugging, and maintainable code.
+
+**Current objective:** Develop practical AI applications with solid backend foundations and measurable results.
 
 ---
 
-## 🎯 Career Focus
+## `02 // TECH_STACK`
 
-I'm preparing for opportunities in:
+### Languages & Backend
 
-- Python AI Engineer
-- AI Engineer / Applied AI Engineer
-- Generative AI Engineer
-- AI/ML Engineer
-- Machine Learning Engineer
-- LLM / RAG Application Engineer
-- Python Backend Developer
-- Software Engineer
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,fastapi,flask&theme=dark" alt="Python, Bash, FastAPI and Flask"/>
+</p>
 
-I'm especially interested in building AI-powered applications with strong backend foundations, meaningful evaluation, and reliable deployment.
+![Python](https://img.shields.io/badge/Python-Primary-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-Web_APIs-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data_Validation-0D1117?style=flat-square&logo=pydantic&logoColor=E92063)
 
-## 🤝 Let's Connect
+### AI / Machine Learning / Generative AI
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Workflows-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-0D1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Systems-0D1117?style=flat-square&logoColor=22D3EE)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-0D1117?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-0D1117?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM_Applications-0D1117?style=flat-square)
+
+**Focus areas:** NumPy · Pandas · Scikit-learn · Supervised Learning · Unsupervised Learning · Feature Engineering · Model Evaluation · Semantic Search · MCP
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="PostgreSQL, MySQL, MongoDB and SQLite"/>
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-Database_Queries-0D1117?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_Data-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-Document_Data-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+
+### Security & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&theme=dark" alt="Git, GitHub, Docker, Linux and AWS"/>
+</p>
+
+![Application Security](https://img.shields.io/badge/AppSec-Secure_Code_Review-0D1117?style=flat-square)
+![SAST](https://img.shields.io/badge/SAST-Static_Analysis-0D1117?style=flat-square)
+![REST API Security](https://img.shields.io/badge/API_Security-OWASP_Top_10-0D1117?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Containers-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-Development-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-EC2_%7C_S3-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+---
+
+## `03 // FEATURED_PROJECTS`
+
+### `[01] AI Customer Support Agent`
+
+**Stack:** Python · LLMs · RAG · FastAPI
+
+- Developed an AI-powered customer support application.
+- Implemented retrieval-augmented generation to provide relevant context for responses.
+- Used embeddings and semantic search for information retrieval.
+- Built API endpoints for query processing, retrieval, and response generation.
+
+### `[02] AI SQL Assistant`
+
+**Stack:** Python · SQL · LLMs · REST APIs
+
+- Designed a workflow to translate natural-language questions into SQL queries.
+- Incorporated query generation, validation, execution, and explanation.
+- Worked with database schemas and PostgreSQL/SQLite.
+- Designed the workflow around read-only queries to reduce unintended modifications.
+
+### `[03] APIVERSEC — API Security Scanner`
+
+**Stack:** Python · Flask · REST APIs · Gemini
+
+- Built a tool to automate security checks against REST API endpoints.
+- Implemented checks for HTTP security headers, CORS, HTTP methods, and information disclosure.
+- Integrated Gemini-based analysis to explain potential security findings.
+- Generated reports summarizing security assessment results.
+
+### `[04] Python Security Analysis Automation`
+
+**Stack:** Python · Bash · SAST
+
+- Developed scripts to automate repetitive source-code and API security assessment tasks.
+- Applied automation to vulnerability investigation workflows.
+- Supported security review and remediation activities.
+
+### `[05] Explore My Repositories`
+
+Discover additional development work, experiments, and projects.
+
+[![Browse repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/0x-bala?tab=repositories)
+
+---
+
+## `04 // EXPERIENCE`
+
+**Application Security Engineer Intern**  
+Cybernerds Solution Pvt. Ltd. · Tamil Nadu, India  
+*April 2025 – January 2026*
+
+- Performed static application security testing and secure code reviews on Java and Python backend microservices.
+- Assessed REST APIs for input validation, authentication, authorization, and access-control issues.
+- Automated repetitive security assessment tasks with Python and Bash, contributing to a reported 30% reduction in manual testing time.
+- Collaborated through Git and GitHub to investigate business-logic vulnerabilities and support remediation.
+
+---
+
+## `05 // EDUCATION_&_ACHIEVEMENTS`
+
+**B.E. Computer Science and Engineering — IoT & Cyber Security**  
+SNS College of Engineering · 2023–2026  
+CGPA: 7.5
+
+- **Special Winner — Cyberthon 2025:** Recognition for technical innovation in cybersecurity.
+- **CVE-2026-0800:** Discovered and publicly disclosed an unauthenticated stored XSS vulnerability.
+- **Security acknowledgements:** Hall-of-Fame recognitions from Tata Play, Samsung, Jio, and Indian Government programs.
+- **Certifications:** Linux Security, Ethical Hacking, and Software Development.
+
+---
+
+## `06 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-<a href="mailto:balamurugan.r.prvt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+<a href="https://github.com/0x-bala">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0x-bala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" alt="GitHub account statistics"/>
 </a>
-<a href="https://www.linkedin.com/in/rbalamurugan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://github.com/0x-bala?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+<a href="https://github.com/0x-bala">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-bala&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=6" alt="Languages in public repositories"/>
 </a>
 
 <br/><br/>
 
-**Build thoughtfully. Learn continuously. Ship reliably.**
+<img src="https://streak-stats.demolab.com?user=0x-bala&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<br/><br/>
+
+[![Contribution activity](https://img.shields.io/badge/Contribution_Activity-View_on_GitHub-0D1117?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/0x-bala?tab=overview)
 
 </div>
+
+<sub>Stats and streak cards are provided by external services and may occasionally be unavailable. Language statistics describe public repository composition, not individual proficiency. GitHub contributions depend on GitHub's contribution rules.</sub>
+
+---
+
+## `07 // CURRENT_FOCUS`
+
+```text
+[ACTIVE] Python & backend engineering
+[LEARNING] Machine learning & model evaluation
+[EXPLORING] LLM applications & RAG
+[BUILDING] AI-powered tools and REST APIs
+[IMPROVING] Testing, deployment & software reliability
+```
+
+My learning roadmap:
+
+`Python` → `ML Fundamentals` → `NLP` → `LLMs` → `Embeddings` → `RAG` → `AI Applications` → `Evaluation & Deployment`
+
+---
+
+## `08 // CAREER_TARGETS`
+
+I'm interested in opportunities involving:
+
+- Python Backend Development
+- AI Engineering and Applied AI
+- Generative AI and LLM Applications
+- RAG and Information Retrieval
+- Machine Learning Engineering
+- AI-powered Developer Tools
+
+I aim to combine practical AI capabilities with secure APIs, maintainable code, and reliable software engineering practices.
+
+---
+
+## `09 // CONNECT`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/0x-bala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rbalamurugan/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:balamurugan.r.prvt@gmail.com)
+
+<br/>
+
+```text
+> Learn continuously.
+> Build thoughtfully.
+> Test thoroughly.
+> Ship reliably.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F766E,100:020617&height=100&section=footer" width="100%" alt="Cyber-themed footer"/>
+
+</div>
+```
